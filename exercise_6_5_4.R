@@ -1,0 +1,1 @@
+bslib::bs_theme_preview(bslib::bs_theme(bootswatch = "vapor"))
